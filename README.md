@@ -12,8 +12,8 @@
 - 🔭 I’m currently working on **[Promptmiss](https://github.com/dabeenkim01/promptmiss)** – a community web app to save, share, and run AI prompts.
 - 🌱 I’m learning **Vue3 Composition API**, **Django**, and **JWT authentication**.
 - 💬 Ask me about **object detection (YOLOv8)**, **Vue3**, **Django**, or anything AI-related.
-- 📫 Reach me at **dabeenkim.dev@gmail.com**
-- 🎓 SSAFY 9기 마이스터 트랙 수강 중
+- 📫 Reach me at **dabeenkim@gmail.com**
+- 🎓 SSAFY 13기 마이스터 트랙 수강 중
 
 ---
 
